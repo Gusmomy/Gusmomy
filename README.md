@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gusmomy and I'm an Italian citizen who is trying to develop R projects related to volleyball
-- 🌱 I’m currently learning R, data visualization, 
+- 🌱 I’m currently learning R, data visualization
 
 
 <!---
